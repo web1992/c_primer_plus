@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-// 编译次程序，请使用g++命令
+// 编译此程序，请使用g++命令
 // 可自行Google g++与gcc区别 
 int main() {
 	    	cout << "Hello, World!" << endl;
