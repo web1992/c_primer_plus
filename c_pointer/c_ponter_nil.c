@@ -1,6 +1,7 @@
 #include <stdio.h>
-//https://stackoverflow.com/questions/4744650/nil-pointer-in-c-c
+// https://stackoverflow.com/questions/4744650/nil-pointer-in-c-c
 // c 指针的操作
+// https://stackoverflow.com/questions/2346806/what-is-a-segmentation-fault
 int main(void)
 {
 	// code ...
