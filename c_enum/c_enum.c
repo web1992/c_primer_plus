@@ -1,5 +1,5 @@
 #include <stdio.h>
-//
+// http://www.cnblogs.com/JCSU/articles/1299051.html (枚举详解)
 int main(void)
 {
 	// code ...
