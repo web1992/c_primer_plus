@@ -6,22 +6,21 @@
 // typedef 在则是有编译器 解析的 compiler 
 
 
-typedef struct Book{
+typedef struct Book {
 
-	double price;
-	char *name;
-	int id;
+    double price;
+    char *name;
+    int id;
 
 } Book;
 
-int main(void)
-{
-	// code ...
-	Book book;
-	book.id = 1;
-	book.name = "C plus plus";
-	book.price = 21.50;	
+int main(void) {
+    // code ...
+    Book book;
+    book.id = 1;
+    book.name = "C plus plus";
+    book.price = 21.50;
 
-	printf("Book id = %d name = %s price = %f \n",book.id,book.name,book.price);
-	return 0;
+    printf("Book id = %d name = %s price = %f \n", book.id, book.name, book.price);
+    return 0;
 }

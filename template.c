@@ -1,8 +1,8 @@
 #include <stdio.h>
+
 //
-int main(void)
-{
-	// code ...
-	
-	return 0;
+int main(void) {
+    // code ...
+
+    return 0;
 }
