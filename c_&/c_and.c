@@ -1,5 +1,5 @@
 #include <stdio.h>
-//
+// & 地址运算符
 int main(void)
 {
 	// code ...
