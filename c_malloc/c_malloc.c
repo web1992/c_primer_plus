@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
 
 // https://www.tutorialspoint.com/c_standard_library/c_function_malloc.htm
 // 
